@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
@@ -18,5 +20,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
