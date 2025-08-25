@@ -1,21 +1,15 @@
 class Solution {
 public:
-    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) 
-    {
-        multiset<int> ms;
-        for(int i=0;i<m;i++)
-        {
-            ms.insert(nums1[i]);
-        }
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        vector<int> ans, v1, v2;
 
-        for(int i=0;i<n;i++)
-        {
-            ms.insert(nums2[i]);
+        for (int i = 0; i < m; i++) {
+            ans.push_back(nums1[i]);
         }
-        int i = 0;
-        for(auto it= ms.begin();it!=ms.end();it++)
-        {
-            nums1[i++]= *it;
+        for (int j = 0; j < n; j++) {
+            ans.push_back(nums2[j]);
         }
+        sort(ans.begin(),ans.end());
+        swap(ans,nums1);
     }
 };
