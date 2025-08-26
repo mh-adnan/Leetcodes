@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/mh-adnan/Leetcodes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mh-adnan/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/mh-adnan/Leetcodes/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/mh-adnan/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mh-adnan/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
@@ -48,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mh-adnan/Leetcodes/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mh-adnan/Leetcodes/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
