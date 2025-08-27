@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mh-adnan/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mh-adnan/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mh-adnan/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mh-adnan/Leetcodes/tree/master/0344-reverse-string) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mh-adnan/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mh-adnan/Leetcodes/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
 ## Simulation
