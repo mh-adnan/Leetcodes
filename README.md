@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mh-adnan/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/mh-adnan/Leetcodes/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mh-adnan/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mh-adnan/Leetcodes/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/mh-adnan/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mh-adnan/Leetcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mh-adnan/Leetcodes/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
@@ -44,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mh-adnan/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mh-adnan/Leetcodes/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -79,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
 |  |
