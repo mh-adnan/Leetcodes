@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
+| [1646-kth-missing-positive-number](https://github.com/mh-adnan/Leetcodes/tree/master/1646-kth-missing-positive-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1646-kth-missing-positive-number](https://github.com/mh-adnan/Leetcodes/tree/master/1646-kth-missing-positive-number) |
 ## String Matching
 |  |
 | ------- |
