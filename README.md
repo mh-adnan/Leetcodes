@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/mh-adnan/Leetcodes/tree/master/1755-defuse-the-bomb) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,4 +113,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/mh-adnan/Leetcodes/tree/master/1755-defuse-the-bomb) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
