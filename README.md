@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3723-sum-of-good-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/mh-adnan/Leetcodes/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mh-adnan/Leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
