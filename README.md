@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/mh-adnan/Leetcodes/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/mh-adnan/Leetcodes/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/mh-adnan/Leetcodes/tree/master/1791-richest-customer-wealth) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/mh-adnan/Leetcodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/mh-adnan/Leetcodes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mh-adnan/Leetcodes/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/mh-adnan/Leetcodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
