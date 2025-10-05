@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3221-find-the-peaks](https://github.com/mh-adnan/Leetcodes/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
+| [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 | [3429-special-array-i](https://github.com/mh-adnan/Leetcodes/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/mh-adnan/Leetcodes/tree/master/3582-find-indices-of-stable-mountains) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
+| [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/mh-adnan/Leetcodes/tree/master/0506-relative-ranks) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
