@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3778-transform-array-by-parity](https://github.com/mh-adnan/Leetcodes/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mh-adnan/Leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mh-adnan/Leetcodes/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4008-restore-finishing-order](https://github.com/mh-adnan/Leetcodes/tree/master/4008-restore-finishing-order) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/mh-adnan/Leetcodes/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mh-adnan/Leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mh-adnan/Leetcodes/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
