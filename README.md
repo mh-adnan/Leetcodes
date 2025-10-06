@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3221-find-the-peaks](https://github.com/mh-adnan/Leetcodes/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mh-adnan/Leetcodes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 | [3429-special-array-i](https://github.com/mh-adnan/Leetcodes/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mh-adnan/Leetcodes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 | [4008-restore-finishing-order](https://github.com/mh-adnan/Leetcodes/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mh-adnan/Leetcodes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/mh-adnan/Leetcodes/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
