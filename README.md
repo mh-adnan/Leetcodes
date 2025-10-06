@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/mh-adnan/Leetcodes/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/mh-adnan/Leetcodes/tree/master/1899-count-items-matching-a-rule) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mh-adnan/Leetcodes/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mh-adnan/Leetcodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/mh-adnan/Leetcodes/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
 |  |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/mh-adnan/Leetcodes/tree/master/0506-relative-ranks) |
 | [1217-relative-sort-array](https://github.com/mh-adnan/Leetcodes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3778-transform-array-by-parity](https://github.com/mh-adnan/Leetcodes/tree/master/3778-transform-array-by-parity) |
 ## Counting
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mh-adnan/Leetcodes/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
