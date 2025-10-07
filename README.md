@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/mh-adnan/Leetcodes/tree/master/0506-relative-ranks) |
 | [1217-relative-sort-array](https://github.com/mh-adnan/Leetcodes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
+| [1505-create-target-array-in-the-given-order](https://github.com/mh-adnan/Leetcodes/tree/master/1505-create-target-array-in-the-given-order) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mh-adnan/Leetcodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/mh-adnan/Leetcodes/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/mh-adnan/Leetcodes/tree/master/1755-defuse-the-bomb) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
+| [1505-create-target-array-in-the-given-order](https://github.com/mh-adnan/Leetcodes/tree/master/1505-create-target-array-in-the-given-order) |
 | [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 ## Divide and Conquer
 |  |
