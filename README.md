@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/mh-adnan/Leetcodes/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/mh-adnan/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/mh-adnan/Leetcodes/tree/master/0506-relative-ranks) |
+| [0924-fair-candy-swap](https://github.com/mh-adnan/Leetcodes/tree/master/0924-fair-candy-swap) |
 | [1217-relative-sort-array](https://github.com/mh-adnan/Leetcodes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/mh-adnan/Leetcodes/tree/master/1505-create-target-array-in-the-given-order) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/mh-adnan/Leetcodes/tree/master/0496-next-greater-element-i) |
+| [0924-fair-candy-swap](https://github.com/mh-adnan/Leetcodes/tree/master/0924-fair-candy-swap) |
 | [1217-relative-sort-array](https://github.com/mh-adnan/Leetcodes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mh-adnan/Leetcodes/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mh-adnan/Leetcodes/tree/master/0506-relative-ranks) |
+| [0924-fair-candy-swap](https://github.com/mh-adnan/Leetcodes/tree/master/0924-fair-candy-swap) |
 | [1217-relative-sort-array](https://github.com/mh-adnan/Leetcodes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -146,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0924-fair-candy-swap](https://github.com/mh-adnan/Leetcodes/tree/master/0924-fair-candy-swap) |
 | [1646-kth-missing-positive-number](https://github.com/mh-adnan/Leetcodes/tree/master/1646-kth-missing-positive-number) |
 ## String Matching
 |  |
