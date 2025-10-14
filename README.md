@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mh-adnan/Leetcodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/mh-adnan/Leetcodes/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/mh-adnan/Leetcodes/tree/master/1646-kth-missing-positive-number) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/mh-adnan/Leetcodes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/mh-adnan/Leetcodes/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/mh-adnan/Leetcodes/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/mh-adnan/Leetcodes/tree/master/1899-count-items-matching-a-rule) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/mh-adnan/Leetcodes/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mh-adnan/Leetcodes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/mh-adnan/Leetcodes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/mh-adnan/Leetcodes/tree/master/2571-find-the-pivot-integer) |
 | [2650-split-with-minimum-sum](https://github.com/mh-adnan/Leetcodes/tree/master/2650-split-with-minimum-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/mh-adnan/Leetcodes/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/mh-adnan/Leetcodes/tree/master/1603-running-sum-of-1d-array) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/mh-adnan/Leetcodes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/mh-adnan/Leetcodes/tree/master/2571-find-the-pivot-integer) |
 | [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mh-adnan/Leetcodes/tree/master/3704-count-partitions-with-even-sum-difference) |
