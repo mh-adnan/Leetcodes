@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mh-adnan/Leetcodes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/mh-adnan/Leetcodes/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/mh-adnan/Leetcodes/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/mh-adnan/Leetcodes/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2571-find-the-pivot-integer](https://github.com/mh-adnan/Leetcodes/tree/master/2571-find-the-pivot-integer) |
 | [2650-split-with-minimum-sum](https://github.com/mh-adnan/Leetcodes/tree/master/2650-split-with-minimum-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/mh-adnan/Leetcodes/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mh-adnan/Leetcodes/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/mh-adnan/Leetcodes/tree/master/3830-find-closest-person) |
