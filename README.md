@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mh-adnan/Leetcodes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/mh-adnan/Leetcodes/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/mh-adnan/Leetcodes/tree/master/1791-richest-customer-wealth) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mh-adnan/Leetcodes/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1899-count-items-matching-a-rule](https://github.com/mh-adnan/Leetcodes/tree/master/1899-count-items-matching-a-rule) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mh-adnan/Leetcodes/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/mh-adnan/Leetcodes/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/mh-adnan/Leetcodes/tree/master/1505-create-target-array-in-the-given-order) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mh-adnan/Leetcodes/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 | [4058-compute-alternating-sum](https://github.com/mh-adnan/Leetcodes/tree/master/4058-compute-alternating-sum) |
 ## Divide and Conquer
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mh-adnan/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mh-adnan/Leetcodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mh-adnan/Leetcodes/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -224,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2571-find-the-pivot-integer](https://github.com/mh-adnan/Leetcodes/tree/master/2571-find-the-pivot-integer) |
 | [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mh-adnan/Leetcodes/tree/master/3704-count-partitions-with-even-sum-difference) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mh-adnan/Leetcodes/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
