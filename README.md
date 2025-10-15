@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mh-adnan/Leetcodes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/mh-adnan/Leetcodes/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/mh-adnan/Leetcodes/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/mh-adnan/Leetcodes/tree/master/3582-find-indices-of-stable-mountains) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mh-adnan/Leetcodes/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/mh-adnan/Leetcodes/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 | [4008-restore-finishing-order](https://github.com/mh-adnan/Leetcodes/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/mh-adnan/Leetcodes/tree/master/0029-divide-two-integers) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/mh-adnan/Leetcodes/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Stack
 |  |
 | ------- |
