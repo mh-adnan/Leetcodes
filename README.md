@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/mh-adnan/Leetcodes/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/mh-adnan/Leetcodes/tree/master/0724-find-pivot-index) |
 | [0924-fair-candy-swap](https://github.com/mh-adnan/Leetcodes/tree/master/0924-fair-candy-swap) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/mh-adnan/Leetcodes/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/mh-adnan/Leetcodes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mh-adnan/Leetcodes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/mh-adnan/Leetcodes/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mh-adnan/Leetcodes/tree/master/0506-relative-ranks) |
 | [0924-fair-candy-swap](https://github.com/mh-adnan/Leetcodes/tree/master/0924-fair-candy-swap) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/mh-adnan/Leetcodes/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/mh-adnan/Leetcodes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
