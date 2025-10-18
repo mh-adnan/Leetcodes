@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3778-transform-array-by-parity](https://github.com/mh-adnan/Leetcodes/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/mh-adnan/Leetcodes/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/mh-adnan/Leetcodes/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mh-adnan/Leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mh-adnan/Leetcodes/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4008-restore-finishing-order](https://github.com/mh-adnan/Leetcodes/tree/master/4008-restore-finishing-order) |
