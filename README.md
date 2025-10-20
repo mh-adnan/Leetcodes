@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3832-minimum-cost-to-reach-every-position](https://github.com/mh-adnan/Leetcodes/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mh-adnan/Leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mh-adnan/Leetcodes/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3994-find-the-least-frequent-digit](https://github.com/mh-adnan/Leetcodes/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/mh-adnan/Leetcodes/tree/master/4008-restore-finishing-order) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/mh-adnan/Leetcodes/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/mh-adnan/Leetcodes/tree/master/4058-compute-alternating-sum) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/mh-adnan/Leetcodes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/mh-adnan/Leetcodes/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
+| [3994-find-the-least-frequent-digit](https://github.com/mh-adnan/Leetcodes/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/mh-adnan/Leetcodes/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mh-adnan/Leetcodes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/mh-adnan/Leetcodes/tree/master/3778-transform-array-by-parity) |
+| [3994-find-the-least-frequent-digit](https://github.com/mh-adnan/Leetcodes/tree/master/3994-find-the-least-frequent-digit) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mh-adnan/Leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/mh-adnan/Leetcodes/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mh-adnan/Leetcodes/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3994-find-the-least-frequent-digit](https://github.com/mh-adnan/Leetcodes/tree/master/3994-find-the-least-frequent-digit) |
 ## String
 |  |
 | ------- |
