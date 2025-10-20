@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0924-fair-candy-swap](https://github.com/mh-adnan/Leetcodes/tree/master/0924-fair-candy-swap) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/mh-adnan/Leetcodes/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/mh-adnan/Leetcodes/tree/master/1217-relative-sort-array) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/mh-adnan/Leetcodes/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mh-adnan/Leetcodes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1505-create-target-array-in-the-given-order](https://github.com/mh-adnan/Leetcodes/tree/master/1505-create-target-array-in-the-given-order) |
