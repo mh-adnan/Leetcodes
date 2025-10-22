@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mh-adnan/Leetcodes/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/mh-adnan/Leetcodes/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/2102-find-the-middle-index-in-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/mh-adnan/Leetcodes/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mh-adnan/Leetcodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/mh-adnan/Leetcodes/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/mh-adnan/Leetcodes/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mh-adnan/Leetcodes/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2102-find-the-middle-index-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/mh-adnan/Leetcodes/tree/master/2571-find-the-pivot-integer) |
 | [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mh-adnan/Leetcodes/tree/master/3704-count-partitions-with-even-sum-difference) |
