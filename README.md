@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/mh-adnan/Leetcodes/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mh-adnan/Leetcodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/2551-apply-operations-to-an-array) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mh-adnan/Leetcodes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mh-adnan/Leetcodes/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2571-find-the-pivot-integer](https://github.com/mh-adnan/Leetcodes/tree/master/2571-find-the-pivot-integer) |
 | [2650-split-with-minimum-sum](https://github.com/mh-adnan/Leetcodes/tree/master/2650-split-with-minimum-sum) |
