@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/2551-apply-operations-to-an-array) |
+| [2614-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2614-prime-in-diagonal) |
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3221-find-the-peaks](https://github.com/mh-adnan/Leetcodes/tree/master/3221-find-the-peaks) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2571-find-the-pivot-integer](https://github.com/mh-adnan/Leetcodes/tree/master/2571-find-the-pivot-integer) |
+| [2614-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2614-prime-in-diagonal) |
 | [2650-split-with-minimum-sum](https://github.com/mh-adnan/Leetcodes/tree/master/2650-split-with-minimum-sum) |
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/mh-adnan/Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/mh-adnan/Leetcodes/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/mh-adnan/Leetcodes/tree/master/1791-richest-customer-wealth) |
+| [2614-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2614-prime-in-diagonal) |
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting Sort
@@ -280,5 +283,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2614-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2614-prime-in-diagonal) |
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
