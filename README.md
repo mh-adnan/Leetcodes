@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2614-prime-in-diagonal) |
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/mh-adnan/Leetcodes/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3221-find-the-peaks](https://github.com/mh-adnan/Leetcodes/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mh-adnan/Leetcodes/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/mh-adnan/Leetcodes/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mh-adnan/Leetcodes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/mh-adnan/Leetcodes/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
