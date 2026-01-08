@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/mh-adnan/Leetcodes/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mh-adnan/Leetcodes/tree/master/0029-divide-two-integers) |
+| [0326-power-of-three](https://github.com/mh-adnan/Leetcodes/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mh-adnan/Leetcodes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mh-adnan/Leetcodes/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/mh-adnan/Leetcodes/tree/master/0326-power-of-three) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
