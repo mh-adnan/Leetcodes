@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2614-prime-in-diagonal) |
 | [2650-split-with-minimum-sum](https://github.com/mh-adnan/Leetcodes/tree/master/2650-split-with-minimum-sum) |
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
+| [2928-distribute-candies-among-children-i](https://github.com/mh-adnan/Leetcodes/tree/master/2928-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mh-adnan/Leetcodes/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/mh-adnan/Leetcodes/tree/master/2928-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/mh-adnan/Leetcodes/tree/master/3221-find-the-peaks) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
@@ -293,4 +295,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2614-prime-in-diagonal) |
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
+## Combinatorics
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/mh-adnan/Leetcodes/tree/master/2928-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
