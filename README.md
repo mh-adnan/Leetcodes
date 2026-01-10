@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2571-find-the-pivot-integer](https://github.com/mh-adnan/Leetcodes/tree/master/2571-find-the-pivot-integer) |
+| [2582-pass-the-pillow](https://github.com/mh-adnan/Leetcodes/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2614-prime-in-diagonal) |
 | [2650-split-with-minimum-sum](https://github.com/mh-adnan/Leetcodes/tree/master/2650-split-with-minimum-sum) |
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mh-adnan/Leetcodes/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/mh-adnan/Leetcodes/tree/master/2195-time-needed-to-buy-tickets) |
 | [2551-apply-operations-to-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/2551-apply-operations-to-an-array) |
+| [2582-pass-the-pillow](https://github.com/mh-adnan/Leetcodes/tree/master/2582-pass-the-pillow) |
 | [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 | [3790-fruits-into-baskets-ii](https://github.com/mh-adnan/Leetcodes/tree/master/3790-fruits-into-baskets-ii) |
 | [4058-compute-alternating-sum](https://github.com/mh-adnan/Leetcodes/tree/master/4058-compute-alternating-sum) |
