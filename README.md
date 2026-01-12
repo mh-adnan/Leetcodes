@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
 | [2928-distribute-candies-among-children-i](https://github.com/mh-adnan/Leetcodes/tree/master/2928-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mh-adnan/Leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mh-adnan/Leetcodes/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mh-adnan/Leetcodes/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/mh-adnan/Leetcodes/tree/master/1925-count-square-sum-triples) |
 | [2928-distribute-candies-among-children-i](https://github.com/mh-adnan/Leetcodes/tree/master/2928-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/mh-adnan/Leetcodes/tree/master/3221-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mh-adnan/Leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
