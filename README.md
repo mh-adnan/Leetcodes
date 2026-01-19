@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/mh-adnan/Leetcodes/tree/master/0029-divide-two-integers) |
 | [0326-power-of-three](https://github.com/mh-adnan/Leetcodes/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/mh-adnan/Leetcodes/tree/master/0507-perfect-number) |
 | [1154-day-of-the-year](https://github.com/mh-adnan/Leetcodes/tree/master/1154-day-of-the-year) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mh-adnan/Leetcodes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mh-adnan/Leetcodes/tree/master/1693-sum-of-all-odd-length-subarrays) |
