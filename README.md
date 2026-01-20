@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2650-split-with-minimum-sum](https://github.com/mh-adnan/Leetcodes/tree/master/2650-split-with-minimum-sum) |
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
 | [2928-distribute-candies-among-children-i](https://github.com/mh-adnan/Leetcodes/tree/master/2928-distribute-candies-among-children-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/mh-adnan/Leetcodes/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/mh-adnan/Leetcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mh-adnan/Leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mh-adnan/Leetcodes/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/mh-adnan/Leetcodes/tree/master/2195-time-needed-to-buy-tickets) |
 | [2551-apply-operations-to-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/2551-apply-operations-to-an-array) |
 | [2582-pass-the-pillow](https://github.com/mh-adnan/Leetcodes/tree/master/2582-pass-the-pillow) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/mh-adnan/Leetcodes/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3311-ant-on-the-boundary](https://github.com/mh-adnan/Leetcodes/tree/master/3311-ant-on-the-boundary) |
 | [3790-fruits-into-baskets-ii](https://github.com/mh-adnan/Leetcodes/tree/master/3790-fruits-into-baskets-ii) |
 | [4058-compute-alternating-sum](https://github.com/mh-adnan/Leetcodes/tree/master/4058-compute-alternating-sum) |
@@ -309,4 +311,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/mh-adnan/Leetcodes/tree/master/2928-distribute-candies-among-children-i) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/mh-adnan/Leetcodes/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
