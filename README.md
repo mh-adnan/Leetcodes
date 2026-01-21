@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/mh-adnan/Leetcodes/tree/master/0507-perfect-number) |
 | [1154-day-of-the-year](https://github.com/mh-adnan/Leetcodes/tree/master/1154-day-of-the-year) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mh-adnan/Leetcodes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1688-count-of-matches-in-tournament](https://github.com/mh-adnan/Leetcodes/tree/master/1688-count-of-matches-in-tournament) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mh-adnan/Leetcodes/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/mh-adnan/Leetcodes/tree/master/1925-count-square-sum-triples) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/mh-adnan/Leetcodes/tree/master/1505-create-target-array-in-the-given-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/mh-adnan/Leetcodes/tree/master/1688-count-of-matches-in-tournament) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mh-adnan/Leetcodes/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/mh-adnan/Leetcodes/tree/master/2195-time-needed-to-buy-tickets) |
 | [2551-apply-operations-to-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/2551-apply-operations-to-an-array) |
