@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/mh-adnan/Leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mh-adnan/Leetcodes/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mh-adnan/Leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mh-adnan/Leetcodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mh-adnan/Leetcodes/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mh-adnan/Leetcodes/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/mh-adnan/Leetcodes/tree/master/3830-find-closest-person) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2614-prime-in-diagonal) |
 | [2722-prime-in-diagonal](https://github.com/mh-adnan/Leetcodes/tree/master/2722-prime-in-diagonal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mh-adnan/Leetcodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
 | ------- |
