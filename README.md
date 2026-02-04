@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-minimum-distance-to-the-target-element](https://github.com/mh-adnan/Leetcodes/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/2102-find-the-middle-index-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mh-adnan/Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/mh-adnan/Leetcodes/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mh-adnan/Leetcodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mh-adnan/Leetcodes/tree/master/0455-assign-cookies) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mh-adnan/Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/mh-adnan/Leetcodes/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/mh-adnan/Leetcodes/tree/master/1154-day-of-the-year) |
 | [1899-count-items-matching-a-rule](https://github.com/mh-adnan/Leetcodes/tree/master/1899-count-items-matching-a-rule) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mh-adnan/Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mh-adnan/Leetcodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
