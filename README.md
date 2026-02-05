@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/mh-adnan/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/mh-adnan/Leetcodes/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/mh-adnan/Leetcodes/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/mh-adnan/Leetcodes/tree/master/0746-min-cost-climbing-stairs) |
 | [0924-fair-candy-swap](https://github.com/mh-adnan/Leetcodes/tree/master/0924-fair-candy-swap) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mh-adnan/Leetcodes/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/mh-adnan/Leetcodes/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mh-adnan/Leetcodes/tree/master/0053-maximum-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/mh-adnan/Leetcodes/tree/master/0746-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
