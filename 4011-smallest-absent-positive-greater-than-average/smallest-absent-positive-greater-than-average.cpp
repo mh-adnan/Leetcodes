@@ -1,16 +1,25 @@
 class Solution {
 public:
     int smallestAbsent(vector<int>& nums) {
+       
         int sum = 0;
-        for (int x : nums) sum += x;
-
+        for (int i = 0; i < nums.size(); i++) {
+            sum += nums[i];
+        }
         int n = nums.size();
-        int avg = sum / n;   // 🔥 integer average
+        int avg = (sum / n);
 
-        for (int i = avg + 1; ; i++) {   // 🔥 strictly greater
-            if (i > 0 && find(nums.begin(), nums.end(), i) == nums.end()) {
-                return i;
+        int ans;
+        for (int i = avg + 1;; i++) {
+
+            if (i > 0) {
+                auto it = find(nums.begin(), nums.end(), i);
+
+                if (it == nums.end()) {
+                    return i;
+                }
             }
         }
+        return -1;
     }
 };
