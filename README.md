@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/mh-adnan/Leetcodes/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/mh-adnan/Leetcodes/tree/master/0507-perfect-number) |
+| [1025-divisor-game](https://github.com/mh-adnan/Leetcodes/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/mh-adnan/Leetcodes/tree/master/1154-day-of-the-year) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mh-adnan/Leetcodes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1688-count-of-matches-in-tournament](https://github.com/mh-adnan/Leetcodes/tree/master/1688-count-of-matches-in-tournament) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/mh-adnan/Leetcodes/tree/master/0053-maximum-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/mh-adnan/Leetcodes/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/mh-adnan/Leetcodes/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -332,5 +334,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/mh-adnan/Leetcodes/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/mh-adnan/Leetcodes/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mh-adnan/Leetcodes/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
