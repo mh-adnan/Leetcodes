@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/mh-adnan/Leetcodes/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/mh-adnan/Leetcodes/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/mh-adnan/Leetcodes/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/mh-adnan/Leetcodes/tree/master/1154-day-of-the-year) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mh-adnan/Leetcodes/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
