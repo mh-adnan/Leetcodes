@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mh-adnan/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mh-adnan/Leetcodes/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/mh-adnan/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/mh-adnan/Leetcodes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mh-adnan/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mh-adnan/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/mh-adnan/Leetcodes/tree/master/0283-move-zeroes) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mh-adnan/Leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/mh-adnan/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mh-adnan/Leetcodes/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/mh-adnan/Leetcodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mh-adnan/Leetcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mh-adnan/Leetcodes/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mh-adnan/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/mh-adnan/Leetcodes/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mh-adnan/Leetcodes/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/mh-adnan/Leetcodes/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/mh-adnan/Leetcodes/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/mh-adnan/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/mh-adnan/Leetcodes/tree/master/0507-perfect-number) |
