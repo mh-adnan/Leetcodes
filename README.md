@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/mh-adnan/Leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3723-sum-of-good-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3723-sum-of-good-numbers) |
 | [3731-find-missing-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3745-maximize-expression-of-three-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mh-adnan/Leetcodes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/mh-adnan/Leetcodes/tree/master/3778-transform-array-by-parity) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mh-adnan/Leetcodes/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2650-split-with-minimum-sum](https://github.com/mh-adnan/Leetcodes/tree/master/2650-split-with-minimum-sum) |
 | [3731-find-missing-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/mh-adnan/Leetcodes/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/mh-adnan/Leetcodes/tree/master/3859-maximum-product-of-two-digits) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2928-distribute-candies-among-children-i](https://github.com/mh-adnan/Leetcodes/tree/master/2928-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/mh-adnan/Leetcodes/tree/master/3221-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mh-adnan/Leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3745-maximize-expression-of-three-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mh-adnan/Leetcodes/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mh-adnan/Leetcodes/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mh-adnan/Leetcodes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2650-split-with-minimum-sum](https://github.com/mh-adnan/Leetcodes/tree/master/2650-split-with-minimum-sum) |
+| [3745-maximize-expression-of-three-elements](https://github.com/mh-adnan/Leetcodes/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
